@@ -48,6 +48,3 @@ EOTS dynamically adjusts CPU frequency based on available slack time and task ur
 - Extend support for heterogeneous multi-core architectures.  
 - Improve the graphical interface for enhanced user interaction and real-time updates.  
 
----
-
-This version provides more clarity, better structure, and additional details on future enhancements. Let me know if you need further refinements! 🚀
